@@ -1,0 +1,428 @@
+TAnimationExperiments
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Release-iphoneos/AnimationExperiments.app/ResourceRules.plist
+cProcessPCH /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ghqckmwihizpizacnajvwwfhcvwz/AnimationExperiments-Prefix.pch.pch AnimationExperiments/AnimationExperiments-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ehgmlaqjodnnsgejwiglpfjkyubb/AnimationExperiments-Prefix.pch.pch AnimationExperiments/AnimationExperiments-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-hfyyppoluxyjjsecyahxyjscxuoo/AnimationExperiments-Prefix.pch.pch AnimationExperiments/AnimationExperiments-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/AppDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/MainViewController.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/main.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/ChildViewController.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/AppDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDAnimatedTransitioning.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDTransitioningDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/MainViewController.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/MainViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/main.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/ChildViewController.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDAnimatedTransitioning.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDTransitioningDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/AppDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000522ACBFD0000000000000096
+t1378536445
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000522ACBFD000000000000036B
+t1378536445
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000522ACC01000000000000019E
+t1378536449
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000520D88540000000000000AC9
+t1376618580
+s2761
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AnimationExperiments-Prefix.pch
+c00000000523FCA5A0000000000000158
+t1379912282
+s344
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m
+c00000000523FCB110000000000000967
+t1379912465
+s2407
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.h
+c00000000523FCB2400000000000000EF
+t1379912484
+s239
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m
+c00000000523FD42F00000000000002BC
+t1379914799
+s700
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h
+c00000000523FD5CE00000000000001C0
+t1379915214
+s448
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m
+c00000000523FD86A000000000000065F
+t1379915882
+s1631
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.h
+c00000000523FD1370000000000000121
+t1379914039
+s289
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m
+c00000000523FD85E0000000000000348
+t1379915870
+s840
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/MainViewController.m
+c00000000523FD40300000000000005B6
+t1379914755
+s1462
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/main.m
+c00000000523FCA5A000000000000015F
+t1379912282
+s351
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/AppDelegate.o
+t2
+s0
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/AppDelegate.o
+t1379915798
+s68172
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/ChildViewController.o
+t1379915798
+s42444
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDAnimatedTransitioning.o
+t2
+s0
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDTransitioningDelegate.o
+t2
+s0
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/MainViewController.o
+t1379915798
+s55908
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/main.o
+t1379915798
+s3860
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/AppDelegate.o
+t1379915798
+s68172
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/ChildViewController.o
+t1379915839
+s42444
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDAnimatedTransitioning.o
+t2
+s0
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDTransitioningDelegate.o
+t2
+s0
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/MainViewController.o
+t1379915798
+s55908
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/main.o
+t1379915798
+s3860
+
+N/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app/ResourceRules.plist
+t1379915795
+s150
+
+N/var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ehgmlaqjodnnsgejwiglpfjkyubb/AnimationExperiments-Prefix.pch.pch
+t1379915797
+s81552
+
+N/var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ghqckmwihizpizacnajvwwfhcvwz/AnimationExperiments-Prefix.pch.pch
+t1379915797
+s81552
+
+N/var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-hfyyppoluxyjjsecyahxyjscxuoo/AnimationExperiments-Prefix.pch.pch
+t1379915797
+s96500
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc4b073ec0ff0b741^6adbccec0ff0b741^---0#1#1#--18"Check dependencies36"D9172B22-B105-438C-9DEF-1C5789E3A4ED-
+
+CCodeSign /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app
+r0
+
+CCompileAssetCatalog /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/Images.xcassets
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/AppDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401608684.890786
+e401608685.084097
+r1
+xCompileC
+xbuild/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/AppDelegate.o
+x/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.h
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m224"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/AppDelegate.o AnimationExperiments/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler793de4ec0ff0b741^db8615ed0ff0b741^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m0000000000000000^4277"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/AppDelegate.o AnimationExperiments/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/ian/.rbenv/shims:/usr/local/heroku/bin:/usr/local/bin:/Users/ian/.rvm/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/ian/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/ian/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-generated-files.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-own-target-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-all-target-headers.hmap -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-project-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources/arm64 -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources -F/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos -include /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-hfyyppoluxyjjsecyahxyjscxuoo/AnimationExperiments-Prefix.pch -MMD -MT dependencies -MF /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/AppDelegate.d --serialize-diagnostics /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/AppDelegate.dia -c /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m -o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/AppDelegate.o36"F2AC6BE2-A0A6-4777-823C-11C1CF85C2B9-
+b44C509DA-A823-4885-8E8C-BFD0EE090512
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/ChildViewController.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/IDAnimatedTransitioning.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/IDTransitioningDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/MainViewController.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/MainViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/main.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/AppDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/ChildViewController.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDAnimatedTransitioning.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401608684.810238
+e401608684.889317
+r0
+xCompileC
+xbuild/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDAnimatedTransitioning.o
+x/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h
+oIn file included from /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:9:
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h:15:97: error: expected ';' after method prototype
+o- (NSTimeInterval)transitionDuration:(id<UIViewControllerContextTransitioning>)transitionContext
+o                                                                                                ^
+o                                                                                                ;
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:23:14: error: property 'reverse' not found on object of type 'IDAnimatedTransitioning *'
+o    if (self.reverse) {
+o             ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:32:18: error: property 'reverse' not found on object of type 'IDAnimatedTransitioning *'
+o        if (self.reverse) {
+o                 ^
+o3 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m248"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDAnimatedTransitioning.o AnimationExperiments/IDAnimatedTransitioning.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler08c8cfec0ff0b741^f0a2e3ec0ff0b741^-1064"In file included from /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:9:/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h:15:97: error: expected ';' after method prototype- (NSTimeInterval)transitionDuration:(id<UIViewControllerContextTransitioning>)transitionContext                                                                                                ^                                                                                                ;/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:23:14: error: property 'reverse' not found on object of type 'IDAnimatedTransitioning *'    if (self.reverse) {             ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:32:18: error: property 'reverse' not found on object of type 'IDAnimatedTransitioning *'        if (self.reverse) {                 ^3 errors generated.3(36%IDEClangDiagnosticActivityLogMessage2@35"Expected ';' after method prototype-401608684#18446744073709551615#0#1(2@127"In file included from /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:9:-401608684#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m0000000000000000^8#8#8#8#184#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h0000000000000000^14#96#14#96#442#0#11"Parse Issue1(3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h0000000000000000^14#96#14#96#442#0#-2@74"Property 'reverse' not found on object of type 'IDAnimatedTransitioning *'-401608684#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m0000000000000000^22#13#22#13#801#0#14"Semantic Issue--2@74"Property 'reverse' not found on object of type 'IDAnimatedTransitioning *'-401608684#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m0000000000000000^31#17#31#17#1179#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m0000000000000000^4349"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDAnimatedTransitioning.o AnimationExperiments/IDAnimatedTransitioning.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/ian/.rbenv/shims:/usr/local/heroku/bin:/usr/local/bin:/Users/ian/.rvm/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/ian/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/ian/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-generated-files.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-own-target-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-all-target-headers.hmap -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-project-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources/armv7 -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources -F/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos -include /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ghqckmwihizpizacnajvwwfhcvwz/AnimationExperiments-Prefix.pch -MMD -MT dependencies -MF /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDAnimatedTransitioning.d --serialize-diagnostics /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDAnimatedTransitioning.dia -c /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m -o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDAnimatedTransitioning.o36"B00DD74B-55D4-4647-85D8-F2EDB12B0E28-
+b44C509DA-A823-4885-8E8C-BFD0EE090512
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDTransitioningDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401608684.810239
+e401608685.617206
+r0
+xCompileC
+xbuild/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDTransitioningDelegate.o
+x/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.h
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:5: error: use of undeclared identifier 'IDAnimatedTransitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o    ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:30: error: use of undeclared identifier 'transitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o                             ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:48: error: use of undeclared identifier 'IDAnimatedTransitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o                                               ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:16:12: error: use of undeclared identifier 'transitioning'
+o    return transitioning;
+o           ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:5: error: use of undeclared identifier 'IDAnimatedTransitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o    ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:30: error: use of undeclared identifier 'transitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o                             ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:48: error: use of undeclared identifier 'IDAnimatedTransitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o                                               ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:22:5: error: use of undeclared identifier 'transitioning'
+o    transitioning.reverse = YES;
+o    ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:23:12: error: use of undeclared identifier 'transitioning'
+o    return transitioning;
+o           ^
+o9 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m248"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDTransitioningDelegate.o AnimationExperiments/IDTransitioningDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler55c2cfec0ff0b741^6d009eed0ff0b741^-2308"/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:5: error: use of undeclared identifier 'IDAnimatedTransitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];    ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:30: error: use of undeclared identifier 'transitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];                             ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:48: error: use of undeclared identifier 'IDAnimatedTransitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];                                               ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:16:12: error: use of undeclared identifier 'transitioning'    return transitioning;           ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:5: error: use of undeclared identifier 'IDAnimatedTransitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];    ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:30: error: use of undeclared identifier 'transitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];                             ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:48: error: use of undeclared identifier 'IDAnimatedTransitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];                                               ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:22:5: error: use of undeclared identifier 'transitioning'    transitioning.reverse = YES;    ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:23:12: error: use of undeclared identifier 'transitioning'    return transitioning;           ^9 errors generated.9(36%IDEClangDiagnosticActivityLogMessage2@54"Use of undeclared identifier 'IDAnimatedTransitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^14#4#14#4#460#0#14"Semantic Issue--2@44"Use of undeclared identifier 'transitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^14#29#14#29#485#0#14"Semantic Issue--2@54"Use of undeclared identifier 'IDAnimatedTransitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^14#47#14#47#503#0#14"Semantic Issue--2@44"Use of undeclared identifier 'transitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^15#11#15#11#551#0#14"Semantic Issue--2@54"Use of undeclared identifier 'IDAnimatedTransitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^20#4#20#4#693#0#14"Semantic Issue--2@44"Use of undeclared identifier 'transitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^20#29#20#29#718#0#14"Semantic Issue--2@54"Use of undeclared identifier 'IDAnimatedTransitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^20#47#20#47#736#0#14"Semantic Issue--2@44"Use of undeclared identifier 'transitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^21#4#21#4#777#0#14"Semantic Issue--2@44"Use of undeclared identifier 'transitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^22#11#22#11#817#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^4349"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDTransitioningDelegate.o AnimationExperiments/IDTransitioningDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/ian/.rbenv/shims:/usr/local/heroku/bin:/usr/local/bin:/Users/ian/.rvm/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/ian/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/ian/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-generated-files.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-own-target-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-all-target-headers.hmap -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-project-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources/armv7 -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources -F/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos -include /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ghqckmwihizpizacnajvwwfhcvwz/AnimationExperiments-Prefix.pch -MMD -MT dependencies -MF /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDTransitioningDelegate.d --serialize-diagnostics /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDTransitioningDelegate.dia -c /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m -o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/IDTransitioningDelegate.o36"208FBD70-8E22-4F41-BBB3-E2CF8BCD9173-
+b44C509DA-A823-4885-8E8C-BFD0EE090512
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/MainViewController.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/main.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/AppDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/ChildViewController.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401608639.367637
+e401608639.605316
+r1
+xCompileC
+xbuild/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/ChildViewController.o
+x/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m242"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/ChildViewController.o AnimationExperiments/ChildViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere9485ebf0ff0b741^3f1d9bbf0ff0b741^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m0000000000000000^4332"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/ChildViewController.o AnimationExperiments/ChildViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/ian/.rbenv/shims:/usr/local/heroku/bin:/usr/local/bin:/Users/ian/.rvm/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/ian/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/ian/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-generated-files.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-own-target-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-all-target-headers.hmap -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-project-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources/armv7s -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources -F/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos -include /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ehgmlaqjodnnsgejwiglpfjkyubb/AnimationExperiments-Prefix.pch -MMD -MT dependencies -MF /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/ChildViewController.d --serialize-diagnostics /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/ChildViewController.dia -c /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/ChildViewController.m -o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/ChildViewController.o36"A860E95E-4611-4381-93C6-2E7E2843BA27-
+b5E437CB4-1C04-4F1F-8191-1EF1F776C2D5
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDAnimatedTransitioning.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401608684.812250
+e401608684.889442
+r0
+xCompileC
+xbuild/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDAnimatedTransitioning.o
+x/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h
+oIn file included from /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:9:
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h:15:97: error: expected ';' after method prototype
+o- (NSTimeInterval)transitionDuration:(id<UIViewControllerContextTransitioning>)transitionContext
+o                                                                                                ^
+o                                                                                                ;
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:23:14: error: property 'reverse' not found on object of type 'IDAnimatedTransitioning *'
+o    if (self.reverse) {
+o             ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:32:18: error: property 'reverse' not found on object of type 'IDAnimatedTransitioning *'
+o        if (self.reverse) {
+o                 ^
+o3 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m250"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDAnimatedTransitioning.o AnimationExperiments/IDAnimatedTransitioning.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerfc1bd0ec0ff0b741^9cc5e3ec0ff0b741^-1064"In file included from /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:9:/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h:15:97: error: expected ';' after method prototype- (NSTimeInterval)transitionDuration:(id<UIViewControllerContextTransitioning>)transitionContext                                                                                                ^                                                                                                ;/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:23:14: error: property 'reverse' not found on object of type 'IDAnimatedTransitioning *'    if (self.reverse) {             ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:32:18: error: property 'reverse' not found on object of type 'IDAnimatedTransitioning *'        if (self.reverse) {                 ^3 errors generated.3(36%IDEClangDiagnosticActivityLogMessage2@35"Expected ';' after method prototype-401608684#18446744073709551615#0#1(2@127"In file included from /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m:9:-401608684#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m0000000000000000^8#8#8#8#184#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h0000000000000000^14#96#14#96#442#0#11"Parse Issue1(3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.h0000000000000000^14#96#14#96#442#0#-2@74"Property 'reverse' not found on object of type 'IDAnimatedTransitioning *'-401608684#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m0000000000000000^22#13#22#13#801#0#14"Semantic Issue--2@74"Property 'reverse' not found on object of type 'IDAnimatedTransitioning *'-401608684#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m0000000000000000^31#17#31#17#1179#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m0000000000000000^4356"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDAnimatedTransitioning.o AnimationExperiments/IDAnimatedTransitioning.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/ian/.rbenv/shims:/usr/local/heroku/bin:/usr/local/bin:/Users/ian/.rvm/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/ian/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/ian/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-generated-files.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-own-target-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-all-target-headers.hmap -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-project-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources/armv7s -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources -F/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos -include /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ehgmlaqjodnnsgejwiglpfjkyubb/AnimationExperiments-Prefix.pch -MMD -MT dependencies -MF /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDAnimatedTransitioning.d --serialize-diagnostics /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDAnimatedTransitioning.dia -c /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDAnimatedTransitioning.m -o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDAnimatedTransitioning.o36"E778F58F-9A07-4A77-B408-EFC1CC0A8D9E-
+b44C509DA-A823-4885-8E8C-BFD0EE090512
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDTransitioningDelegate.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401608684.812255
+e401608685.629212
+r0
+xCompileC
+xbuild/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDTransitioningDelegate.o
+x/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m
+d/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.h
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:5: error: use of undeclared identifier 'IDAnimatedTransitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o    ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:30: error: use of undeclared identifier 'transitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o                             ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:48: error: use of undeclared identifier 'IDAnimatedTransitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o                                               ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:16:12: error: use of undeclared identifier 'transitioning'
+o    return transitioning;
+o           ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:5: error: use of undeclared identifier 'IDAnimatedTransitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o    ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:30: error: use of undeclared identifier 'transitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o                             ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:48: error: use of undeclared identifier 'IDAnimatedTransitioning'
+o    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];
+o                                               ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:22:5: error: use of undeclared identifier 'transitioning'
+o    transitioning.reverse = YES;
+o    ^
+o/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:23:12: error: use of undeclared identifier 'transitioning'
+o    return transitioning;
+o           ^
+o9 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m250"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDTransitioningDelegate.o AnimationExperiments/IDTransitioningDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler5a12d0ec0ff0b741^00c6a7ed0ff0b741^-2308"/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:5: error: use of undeclared identifier 'IDAnimatedTransitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];    ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:30: error: use of undeclared identifier 'transitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];                             ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:15:48: error: use of undeclared identifier 'IDAnimatedTransitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];                                               ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:16:12: error: use of undeclared identifier 'transitioning'    return transitioning;           ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:5: error: use of undeclared identifier 'IDAnimatedTransitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];    ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:30: error: use of undeclared identifier 'transitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];                             ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:21:48: error: use of undeclared identifier 'IDAnimatedTransitioning'    IDAnimatedTransitioning *transitioning = [[IDAnimatedTransitioning alloc]init];                                               ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:22:5: error: use of undeclared identifier 'transitioning'    transitioning.reverse = YES;    ^/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m:23:12: error: use of undeclared identifier 'transitioning'    return transitioning;           ^9 errors generated.9(36%IDEClangDiagnosticActivityLogMessage2@54"Use of undeclared identifier 'IDAnimatedTransitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^14#4#14#4#460#0#14"Semantic Issue--2@44"Use of undeclared identifier 'transitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^14#29#14#29#485#0#14"Semantic Issue--2@54"Use of undeclared identifier 'IDAnimatedTransitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^14#47#14#47#503#0#14"Semantic Issue--2@44"Use of undeclared identifier 'transitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^15#11#15#11#551#0#14"Semantic Issue--2@54"Use of undeclared identifier 'IDAnimatedTransitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^20#4#20#4#693#0#14"Semantic Issue--2@44"Use of undeclared identifier 'transitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^20#29#20#29#718#0#14"Semantic Issue--2@54"Use of undeclared identifier 'IDAnimatedTransitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^20#47#20#47#736#0#14"Semantic Issue--2@44"Use of undeclared identifier 'transitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^21#4#21#4#777#0#14"Semantic Issue--2@44"Use of undeclared identifier 'transitioning'-401608685#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^22#11#22#11#817#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@118"file://localhost/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m0000000000000000^4356"CompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDTransitioningDelegate.o AnimationExperiments/IDTransitioningDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/ian/.rbenv/shims:/usr/local/heroku/bin:/usr/local/bin:/Users/ian/.rvm/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448/bin:/Users/ian/.rvm/gems/ruby-1.9.3-p448@global/bin:/Users/ian/.rvm/rubies/ruby-1.9.3-p448/bin:/Users/ian/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-generated-files.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-own-target-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-all-target-headers.hmap -iquote /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments-project-headers.hmap -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources/armv7s -I/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/DerivedSources -F/Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos -include /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ehgmlaqjodnnsgejwiglpfjkyubb/AnimationExperiments-Prefix.pch -MMD -MT dependencies -MF /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDTransitioningDelegate.d --serialize-diagnostics /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDTransitioningDelegate.dia -c /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/IDTransitioningDelegate.m -o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/IDTransitioningDelegate.o36"DF17F3E6-8A6A-4B0B-9722-D00418716DE1-
+b44C509DA-A823-4885-8E8C-BFD0EE090512
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/MainViewController.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/MainViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/main.o /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCopyStringsFile /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app/en.lproj/InfoPlist.strings AnimationExperiments/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Release-iphoneos/AnimationExperiments.app/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app/AnimationExperiments normal armv7\ armv7s\ arm64
+r0
+
+CGenerateDSYMFile /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app.dSYM /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app/AnimationExperiments
+r0
+
+CLd /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/arm64/AnimationExperiments normal arm64
+r0
+
+CLd /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7/AnimationExperiments normal armv7
+r0
+
+CLd /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/Objects-normal/armv7s/AnimationExperiments normal armv7s
+r0
+
+CProcessInfoPlistFile /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app/Info.plist /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/AnimationExperiments/AnimationExperiments-Info.plist
+r0
+
+CProcessPCH /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ehgmlaqjodnnsgejwiglpfjkyubb/AnimationExperiments-Prefix.pch.pch AnimationExperiments/AnimationExperiments-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-ghqckmwihizpizacnajvwwfhcvwz/AnimationExperiments-Prefix.pch.pch AnimationExperiments/AnimationExperiments-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/w1/zwbzsrdx7px6151_zkp0k_jr0000gn/C/com.apple.DeveloperTools/5.0-5A1412/Xcode/SharedPrecompiledHeaders/AnimationExperiments-Prefix-hfyyppoluxyjjsecyahxyjscxuoo/AnimationExperiments-Prefix.pch.pch AnimationExperiments/AnimationExperiments-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/AnimationExperiments.build/Release-iphoneos/AnimationExperiments.build/AnimationExperiments.xcent
+r0
+
+CProcessProductPackaging /Users/ian/Library/MobileDevice/Provisioning\ Profiles/651E6F98-FD70-49AF-8A5E-12593E59884F.mobileprovision /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app/embedded.mobileprovision
+r0
+
+CTouch /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app
+r0
+
+CValidate /Users/ian/AppsDev/uk.co.iandundas/AnimationExperiments/build/Release-iphoneos/AnimationExperiments.app
+r0
+

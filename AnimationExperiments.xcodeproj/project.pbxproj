@@ -7,18 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		196560B944405446C19A58D8 /* ModalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 196568CA6BC9960A85F2382A /* ModalViewController.m */; };
+		19656335904C33820F83E8B3 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1965603A054AB152DDD938D4 /* MainViewController.m */; };
+		19656A001E6D5B192C8AC710 /* IDTransitioningDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 196568508FA0A45F6E303B1A /* IDTransitioningDelegate.m */; };
 		3C91539C17F001DA009F48B6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C91539B17F001DA009F48B6 /* Foundation.framework */; };
 		3C91539E17F001DA009F48B6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C91539D17F001DA009F48B6 /* CoreGraphics.framework */; };
 		3C9153A017F001DA009F48B6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C91539F17F001DA009F48B6 /* UIKit.framework */; };
 		3C9153A617F001DA009F48B6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3C9153A417F001DA009F48B6 /* InfoPlist.strings */; };
 		3C9153A817F001DA009F48B6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C9153A717F001DA009F48B6 /* main.m */; };
 		3C9153AC17F001DA009F48B6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C9153AB17F001DA009F48B6 /* AppDelegate.m */; };
-		3C9153AE17F001DB009F48B6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C9153AD17F001DB009F48B6 /* Images.xcassets */; };
 		3C9153B517F001DB009F48B6 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C9153B417F001DB009F48B6 /* XCTest.framework */; };
 		3C9153B617F001DB009F48B6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C91539B17F001DA009F48B6 /* Foundation.framework */; };
 		3C9153B717F001DB009F48B6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C91539F17F001DA009F48B6 /* UIKit.framework */; };
 		3C9153BF17F001DB009F48B6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3C9153BD17F001DB009F48B6 /* InfoPlist.strings */; };
 		3C9153C117F001DB009F48B6 /* AnimationExperimentsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C9153C017F001DB009F48B6 /* AnimationExperimentsTests.m */; };
+		3C9153D517F1841A009F48B6 /* IDTransitionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C9153D417F1841A009F48B6 /* IDTransitionController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +35,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1965603A054AB152DDD938D4 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		1965670ECD215E182E218F9F /* IDTransitioningDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDTransitioningDelegate.h; sourceTree = "<group>"; };
+		196568508FA0A45F6E303B1A /* IDTransitioningDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IDTransitioningDelegate.m; sourceTree = "<group>"; };
+		196568CA6BC9960A85F2382A /* ModalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModalViewController.m; sourceTree = "<group>"; };
+		196569DA35BCA54FD6C36BF4 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		19656D572C9AE93E0252E824 /* ModalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModalViewController.h; sourceTree = "<group>"; };
 		3C91539817F001DA009F48B6 /* AnimationExperiments.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationExperiments.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C91539B17F001DA009F48B6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3C91539D17F001DA009F48B6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -42,12 +51,13 @@
 		3C9153A917F001DA009F48B6 /* AnimationExperiments-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AnimationExperiments-Prefix.pch"; sourceTree = "<group>"; };
 		3C9153AA17F001DA009F48B6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3C9153AB17F001DA009F48B6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3C9153AD17F001DB009F48B6 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		3C9153B317F001DB009F48B6 /* AnimationExperimentsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationExperimentsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C9153B417F001DB009F48B6 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		3C9153BC17F001DB009F48B6 /* AnimationExperimentsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AnimationExperimentsTests-Info.plist"; sourceTree = "<group>"; };
 		3C9153BE17F001DB009F48B6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3C9153C017F001DB009F48B6 /* AnimationExperimentsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationExperimentsTests.m; sourceTree = "<group>"; };
+		3C9153D317F1841A009F48B6 /* IDTransitionController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDTransitionController.h; sourceTree = "<group>"; };
+		3C9153D417F1841A009F48B6 /* IDTransitionController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IDTransitionController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +84,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		196569FEE2D50F82373561CF /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				19656D572C9AE93E0252E824 /* ModalViewController.h */,
+				196568CA6BC9960A85F2382A /* ModalViewController.m */,
+				196569DA35BCA54FD6C36BF4 /* MainViewController.h */,
+				1965603A054AB152DDD938D4 /* MainViewController.m */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		19656BA0735E9033E871EA24 /* Transitioning */ = {
+			isa = PBXGroup;
+			children = (
+				1965670ECD215E182E218F9F /* IDTransitioningDelegate.h */,
+				196568508FA0A45F6E303B1A /* IDTransitioningDelegate.m */,
+				3C9153D317F1841A009F48B6 /* IDTransitionController.h */,
+				3C9153D417F1841A009F48B6 /* IDTransitionController.m */,
+			);
+			path = Transitioning;
+			sourceTree = "<group>";
+		};
 		3C91538F17F001DA009F48B6 = {
 			isa = PBXGroup;
 			children = (
@@ -109,8 +141,9 @@
 			children = (
 				3C9153AA17F001DA009F48B6 /* AppDelegate.h */,
 				3C9153AB17F001DA009F48B6 /* AppDelegate.m */,
-				3C9153AD17F001DB009F48B6 /* Images.xcassets */,
 				3C9153A217F001DA009F48B6 /* Supporting Files */,
+				196569FEE2D50F82373561CF /* ViewControllers */,
+				19656BA0735E9033E871EA24 /* Transitioning */,
 			);
 			path = AnimationExperiments;
 			sourceTree = "<group>";
@@ -220,7 +253,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C9153A617F001DA009F48B6 /* InfoPlist.strings in Resources */,
-				3C9153AE17F001DB009F48B6 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -241,6 +273,10 @@
 			files = (
 				3C9153AC17F001DA009F48B6 /* AppDelegate.m in Sources */,
 				3C9153A817F001DA009F48B6 /* main.m in Sources */,
+				196560B944405446C19A58D8 /* ModalViewController.m in Sources */,
+				19656335904C33820F83E8B3 /* MainViewController.m in Sources */,
+				3C9153D517F1841A009F48B6 /* IDTransitionController.m in Sources */,
+				19656A001E6D5B192C8AC710 /* IDTransitioningDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -441,6 +477,7 @@
 				3C9153C617F001DB009F48B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3C9153C717F001DB009F48B6 /* Build configuration list for PBXNativeTarget "AnimationExperimentsTests" */ = {
 			isa = XCConfigurationList;
@@ -449,6 +486,7 @@
 				3C9153C917F001DB009F48B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
